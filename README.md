@@ -6,3 +6,5 @@ Monte Carlo simulations are a wide class of computational algorithms that rely o
 
 
 "The intention behind Monte Carlo is that, as we use more samples, our solution should get more and more precise."
+
+For more details on Monte Carlo Simulation, please read [theaidream.com](https://www.theaidream.com/post/introduction-to-monte-carlo-simulation-in-statistics)
